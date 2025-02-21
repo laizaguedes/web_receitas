@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --font-heading: var(--font-oxanium); /*font-heading define qual a font prioritaria da aplicação*/
+}
